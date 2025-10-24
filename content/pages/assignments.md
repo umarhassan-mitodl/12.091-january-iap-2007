@@ -18,7 +18,7 @@ Session 1
     *   Identify Radon, Thoron and Actinon isotopes.
     *   Reference: _Handbook of Silicate Rock Analysis_ by Phil Pott.
 *   List all the isotopes of Radon and their half-lifes.
-*   Browse and list some radon publications from the {{% resource_link "1f60ccae-75a8-47b7-a820-3277a8933586" "Web site" %}}.
+*   Browse and list some radon publications from the [Web site](http://www.epa.gov/).
 *   Study and comment on the radon potential of Texas, U.S.A.
 
 Session 2
